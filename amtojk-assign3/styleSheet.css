@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(125, 178, 185); 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.TopBar {
+    font-size: 32px;
+    font-weight: bold;
+    color: #000000; 
+}
+
+.navbar {
+    background-color: #000000;
+    background-image: url(weight_icon.png);
+    background-repeat: no-repeat;
+    background-size: auto 70px;
+    background-position-y: 5px;
+    background-position-x: 35px;
+    padding-right: 30px;;
+    padding-top: 15px;
+}
+
+.card-header {
+    background-color: #333;
+    color: white;
+}
+
+.btn-primary {
+    background-color: rgb(125, 178, 185);
+}
