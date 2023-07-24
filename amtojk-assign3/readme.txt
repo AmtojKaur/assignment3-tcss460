@@ -22,4 +22,4 @@ Remember to have both the frontend and backend running at the same time for the 
 
 If any issues occur, check the browser console and the terminal where the backend is running for error messages to identify and troubleshoot any potential problems.
 
-GitHub link: 
+GitHub link: https://github.com/AmtojKaur/assignment3-tcss460/tree/main 
